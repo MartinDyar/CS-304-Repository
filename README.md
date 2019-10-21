@@ -73,3 +73,19 @@ Collection of Projects
 ## `@Override public String toString()`
 
  * **Returns:** converts and returns the values of x, y, and area to string
+
+# Point Class
+
+## `public Point(int xInit, int yInit)`
+
+ * **Parameters:**
+   * `xInit` — takes initial value of x
+   * `yInit` — takes initial value of y
+
+## `public int getX()`
+
+ * **Returns:** returns int x of the point
+
+## `public int getY()`
+
+ * **Returns:** returns int y of the point
