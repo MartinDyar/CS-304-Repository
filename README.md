@@ -21,3 +21,29 @@ Collection of Projects
 ## `@Override public String toString()`
 
  * **Returns:** converts and returns the values of x, y, and area to string
+
+# Rectangle Class
+
+## `public Rectangle(int xInit, int yInit, float lengthInit, float widthInit)`
+
+ * **Parameters:**
+   * `xInit` — takes initial value of x
+   * `yInit` — takes initial value of y
+   * `lengthInit` — takes initial value of the length
+   * `widthInit` — takes initial value of the width
+
+## `float getLength()`
+
+ * **Returns:** returns the float length of rectangle
+
+## `float getWidth()`
+
+ * **Returns:** returns the float width of rectangle
+
+## `float area()`
+
+ * **Returns:** returns the float area of rectangle
+
+## `@Override public String toString()`
+
+ * **Returns:** converts and returns the values of x, y, and area to string
