@@ -47,3 +47,29 @@ Collection of Projects
 ## `@Override public String toString()`
 
  * **Returns:** converts and returns the values of x, y, and area to string
+
+# Triangle Class
+
+## `public Triangle(int xInit, int yInit, float baseInit, float heightInit)`
+
+ * **Parameters:**
+   * `xInit` — takes initial value of x
+   * `yInit` — takes initial value of y
+   * `baseInit` — takes initial value of base
+   * `heightInit` — takes initial value of height
+
+## `float getBase()`
+
+ * **Returns:** returns the float base of triangle
+
+## `float getHeight()`
+
+ * **Returns:** returns the float height of triangle
+
+## `float area()`
+
+ * **Returns:** returns the float area of triangle
+
+## `@Override public String toString()`
+
+ * **Returns:** converts and returns the values of x, y, and area to string
