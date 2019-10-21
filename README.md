@@ -1,5 +1,5 @@
-# CS-304-Repository
-Collection of Projects
+# CS-304-Repository 1
+This program takes in multiple values while also utilizing multiple classes to calculate the area of specific shapes. For example, the shapes' areas that can be calculated include circles, rectangles, and triangles. Not only does it correctly identify the shapes' areas, but it also calculates the total area of all the similar shapes.
 
 # Circle Class
 
